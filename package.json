@@ -1,0 +1,22 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "Clown landing-page\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C netflix \u001b[C\u001b[C\u001b[landing-page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": " gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofiane-Bekkari/Clown-netflix-landpage.git"
+  },
+  "author": "Sofiane Bekkari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sofiane-Bekkari/Clown-netflix-landpage/issues"
+  },
+  "homepage": "https://Sofiane-Bekkari.github.io/Clown-netflix-landpage",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
